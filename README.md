@@ -16,7 +16,6 @@
 
 <img src="./assets/connect.svg" width="100%" alt="connect --socials" />
 
-<a href="https://jrwebia.com"><img src="./assets/btn-web.svg" alt="WEB" /></a>
 <a href="mailto:jrdevwebia@gmail.com"><img src="./assets/btn-email.svg" alt="EMAIL" /></a>
 <a href="https://github.com/informatica066"><img src="./assets/btn-github.svg" alt="GITHUB" /></a>
 
