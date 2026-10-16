@@ -2,7 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="JR.IA — profile.yml" />
 
-<img src="https://komarev.com/ghpvc/?username=informatica066&label=profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
 
 <br/><br/>
 
